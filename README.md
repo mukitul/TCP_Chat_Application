@@ -7,5 +7,5 @@ This project is for Network Programming Lab of 4th year and 2nd semester.
 1) Friend requst-sent,accept,reject
 2) Online Friend List
 3) Login, Registration
-#Brief Description
+# Brief Description
 There is no UI in this project. All the activities of chatting is done in console.
