@@ -1,6 +1,6 @@
 # TCP_Chat_Application
 Chat Application using TCP.
-This project is for Network Programming Lab of 4th year and 2nd semester.
+
 # Tools Used
 1) Netbeans
 # Key Features
